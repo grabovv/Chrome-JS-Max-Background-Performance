@@ -2,4 +2,4 @@
 
 A simple .BAT script for Windows that launches Chrome in high-performance mode.<br>
 So if Chrome gets minimized or the screen gets locked, Chrome will still execute JavaScript scripts with the highest possible performance.<br><br>
-Work also for Windows RDP sessions.
+Works also for Windows RDP sessions.
